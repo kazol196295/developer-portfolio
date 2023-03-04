@@ -14,6 +14,13 @@ h1 {
 .foundation {
     display: flex;
     padding-left: 3%;
+    
+}
+#lala{
+    background-color: aqua;
+}
+.lala{
+    background-color: aqua;
 }
 
 .half {
